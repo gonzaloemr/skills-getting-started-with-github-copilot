@@ -167,3 +167,24 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Styling for participant info */
+.participant-info {
+  font-size: 14px;
+  color: #1a237e;
+  background-color: #e3f2fd;
+  padding: 10px;
+  border: 1px solid #bbdefb;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.participant-info h5 {
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #0d47a1;
+}
+
+.participant-info p {
+  margin-bottom: 5px;
+}

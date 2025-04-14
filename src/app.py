@@ -75,7 +75,15 @@ activities = {
         "max_participants": 12,
         "participants": ["henry@mergington.edu", "lucas@mergington.edu"]
     }
+    ,
+    "Debate Club": {
+        "description": "Improve public speaking and argumentation skills",
+        "schedule": "Mondays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["grace@mergington.edu", "ethan@mergington.edu"]
+    }
 }
+
 
 
 @app.get("/")
